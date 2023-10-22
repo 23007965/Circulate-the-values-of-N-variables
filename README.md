@@ -28,5 +28,7 @@ def circulate():
     
 
 ## Output:
+![image](https://github.com/23007965/Circulate-the-values-of-N-variables/assets/138971238/10d33a32-770b-409c-ad20-6ee2630d3f4b)
+
 
 ## Result:
